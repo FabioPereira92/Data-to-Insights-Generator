@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-01-16T13:56:52.134545Z",
+    "input_file": "sample_data\\sample_sales.csv",
+    "question": "Why did revenue drop in Q3?",
+    "model": "gpt-4o-mini",
+    "row_count": 12,
+    "estimated_tokens": 1239,
+    "estimated_cost_usd": 0.001239
+  },
+  {
+    "timestamp": "2026-01-16T14:24:42.539659Z",
+    "input_file": "sample_data\\sample_sales.csv",
+    "question": "Why did revenue drop in Q3?",
+    "model": "gpt-4o-mini",
+    "row_count": 12,
+    "estimated_tokens": 1239,
+    "estimated_cost_usd": 0.001239
+  }
+]

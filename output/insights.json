@@ -1,0 +1,27 @@
+{
+  "executive_summary": "Revenue dropped in Q3 primarily due to seasonal decline and lower repeat purchases.",
+  "key_insights": [
+    "Quarter-over-quarter revenue decreased by 12%",
+    "Top product category saw a 20% drop in units sold"
+  ],
+  "suggested_charts": [
+    {
+      "chart_type": "line",
+      "columns": [
+        "date",
+        "revenue"
+      ],
+      "reason": "Trend over time shows Q3 drop"
+    },
+    {
+      "chart_type": "bar",
+      "columns": [
+        "product_category",
+        "units_sold"
+      ],
+      "reason": "Compare category performance"
+    }
+  ],
+  "analysis_notes": "Recommend checking marketing spend and returns data; consider cohort analysis.",
+  "limitations": "Analysis is based on summary stats and sample rows; full data may reveal different patterns."
+}

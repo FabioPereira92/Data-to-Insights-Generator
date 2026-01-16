@@ -1,0 +1,14 @@
+date,product_category,units_sold,revenue
+2023-01-01,Widgets,10,1000
+2023-02-01,Widgets,12,1200
+2023-03-01,Gadgets,5,500
+2023-04-01,Widgets,8,800
+2023-05-01,Gadgets,7,700
+2023-06-01,Widgets,9,900
+2023-07-01,Gadgets,4,400
+2023-08-01,Widgets,6,600
+2023-09-01,Gadgets,2,200
+2023-10-01,Widgets,11,1100
+2023-11-01,Gadgets,3,300
+2023-12-01,Widgets,13,1300
+

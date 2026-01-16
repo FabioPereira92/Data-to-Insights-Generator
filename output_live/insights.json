@@ -1,0 +1,8 @@
+{
+  "executive_summary": "",
+  "key_insights": [],
+  "suggested_charts": [],
+  "analysis_notes": "",
+  "limitations": "LLM JSON parse error: Expecting property name enclosed in double quotes: line 1 column 3 (char 2); raw response included",
+  "raw_response": "[{'type': 'output_text', 'annotations': [], 'logprobs': [], 'text': '{\\n  \"executive_summary\": \"Revenue decreased in Q3 due to a decline in units sold across product categories, particularly in Widgets. Sales patterns suggest market saturation or increased competition during this period.\",\\n  \"key_insights\": [\\n    \"Widgets accounted for a significant portion of sales but showed a decline in units sold in Q3.\",\\n    \"Gadgets maintained moderate sales but not enough to offset the decline from Widgets.\"\\n  ],\\n  \"suggested_charts\": [\\n    {\\n      \"chart_type\": \"line\",\\n      \"columns\": [\"date\", \"revenue\"],\\n      \"reason\": \"To visualize revenue trends over the specified quarters.\"\\n    },\\n    {\\n      \"chart_type\": \"bar\",\\n      \"columns\": [\"product_category\", \"units_sold\"],\\n      \"reason\": \"To compare units sold across product categories and identify trends.\"\\n    }\\n  ],\\n  \"analysis_notes\": \"Focus on examining factors affecting sales in Q3, such as market trends, pricing strategies, and competitor actions.\",\\n  \"limitations\": \"The dataset is limited to two product categories and does not capture external market factors that may influence sales.\"\\n}'}]"
+}
