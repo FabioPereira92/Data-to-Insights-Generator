@@ -41,8 +41,15 @@ Developed using GitHub Copilot and ChatGPT as productivity tools.
 
 Screenshots
 -----------
-- 📸 [screenshot-placeholder-1]
+input
+
+<img width="342" height="337" alt="image" src="https://github.com/user-attachments/assets/cab80f23-8d5b-460b-91f7-366b7dea40fa" />
+
+output
+
+<img width="1727" height="745" alt="image" src="https://github.com/user-attachments/assets/f9fc6f47-eae8-48ac-90e2-59bbe22a4f90" />
 
 License
 -------
 MIT
+
